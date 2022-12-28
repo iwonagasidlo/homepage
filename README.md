@@ -10,3 +10,9 @@ https://iwonagasidlo.github.io/homepage/
 ## What's inside?
 
 The project is a short description of the way this big football event in Qatar runs. You will find out about the matches that have already been played and which groups made it to the quarter finals. This project also includes the table with dates and time of upcoming matches. **Hope you'll enjoy checking it!**
+
+## Technologies used in this project:
+- HTML
+- CSS 
+- Java Script
+- BEM
